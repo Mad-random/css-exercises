@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.salmon {
+  background-color: salmon;
+}
+
+.cooler {
+  font-size: 25px;
+}
+
+#number-two {
+  font-size: 35px;
+  font-family: 'Lucida Grande', 'Lucida Sans `Unicode';
+  color: blue;
+}
+
+#number-four {
+  background-color: greenyellow;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
